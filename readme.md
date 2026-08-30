@@ -6,43 +6,7 @@ This repository contains the day-by-day materials presented during the Brain Sum
 
 ## 📚 Day-by-Day Materials
 
-All materials are organized by day for easy access:
-
-| Day       | Materials                                       |
-| --------- | ----------------------------------------------- |
-| **Day 1** | [Slides](Day%201/Slides) · [Code](Day%201/Code) |
-| **Day 2** | [Slides](Day%202/Slides) · [Code](Day%202/Code) |
-| **Day 3** | [Slides](Day%203/Slides) · [Code](Day%203/Code) |
-| **Day 4** | [Slides](Day%204/Slides) · [Code](Day%204/Code) |
-| **Day 5** | [Slides](Day%205/Slides) · [Code](Day%205/Code) |
-
-## 📁 Repository Structure
-
-```text
-Brain-Summer-School/
-│
-├── Day 1/
-│   ├── Slides/
-│   └── Code/
-│
-├── Day 2/
-│   ├── Slides/
-│   └── Code/
-│
-├── Day 3/
-│   ├── Slides/
-│   └── Code/
-│
-├── Day 4/
-│   ├── Slides/
-│   └── Code/
-│
-├── Day 5/
-│   ├── Slides/
-│   └── Code/
-│
-└── README.md
-```
+All materials are organized by day for easy access.
 
 ## 💻 What's Included?
 
